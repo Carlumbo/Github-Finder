@@ -1,3 +1,1 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:
+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
