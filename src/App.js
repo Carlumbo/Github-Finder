@@ -20,7 +20,7 @@ class App extends Component {
 
   render() {
     return (
-      <div className='Ap'>
+      <div className='App'>
         <Navbar />
         <div className='container'>
           <Users loading={this.state.loading} users={this.state.users} />
