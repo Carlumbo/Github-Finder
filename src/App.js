@@ -4,9 +4,9 @@ import './App.css';
 import Navbar from './components/layout/Navbar';
 import Alert from './components/layout/Alert';
 import About from './components/pages/About';
+import NotFound from './components/pages/NotFound';
 import User from './components/users/User';
 import Home from './components/pages/Home';
-import NotFound from './components/pages/NotFound';
 
 import GithubState from './context/github/GithubState';
 import AlertState from './context/alert/AlertState';
